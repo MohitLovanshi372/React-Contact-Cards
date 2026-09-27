@@ -1,0 +1,6 @@
+{
+  "name": "React Contact Cards SPA - InternWave",
+  "description": "A responsive single-page React application for creating, managing, and viewing dynamic contact cards with props, state, and form validation for InternWave internship assignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
