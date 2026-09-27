@@ -29,7 +29,7 @@ src/
 │   ├── UserList.jsx       # Directory list component with search & dynamic card rendering
 │   └── ContactCard.jsx    # Individual reusable contact card with Edit & Delete actions
 ├── App.jsx                # Top-level parent component managing central state
-├── main.tsx               # Application root mounting React to the DOM
+├── main.jsx               # Application root mounting React to the DOM
 └── index.css              # Global styles with Tailwind CSS
 ```
 
